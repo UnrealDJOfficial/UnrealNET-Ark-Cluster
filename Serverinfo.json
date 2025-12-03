@@ -63,7 +63,26 @@
 					},
 					{
 						"title": "Notable Streamers",
-						"text": ""
+						"text": "• Fox - Getting people excited to play on this server and being super helpfull - Follow her at tiktok.com/@fake_fox87\r\n\r\n"
+					}
+				]
+			},
+			{
+				"layout": 3,
+				"buttontext": "Support the Cluster",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "Optional Support / Donations",
+						"text": "Running a full ARK cluster takes time, resources, and server costs. \r\n\r\nIf you enjoy the community and would like to help keep the cluster online, you’re welcome to support it with a voluntary donation.\r\n\r\n\r\nDonations are 100% optional and never required.\r\nYou won’t get any in-game advantages, discord titles, perks, or special treatment — everything stays fair and equal for all players.\r\n\r\nIf you’d like to help out, you can click the \"donate\" button below. \r\n\r\n\r\n\r\nYour support is appreciated, but simply playing on the cluster and being part of the community already means a lot. ♥️"
+					},
+					{
+						"title": "Current Hardware",
+						"text": "•  3x Dell EMC\r\n   -1x  16 x Intel(R) Xeon(R) w3-2435\r\n           (Island, Center, Astraeos, Ragnarok, Valguero)\r\n   -1x  44 x Intel(R) Xeon(R) CPU E5-2699 v4\r\n           (Scorched, Abberation, Extinction, ClubArk)\r\n   -1x  16 x Intel(R) Xeon(R) E-2388G CPU\r\n           (Cluster (cross-ark) management, backups and databases)\r\n\r\nTotal ram: 281GB / HDD Space: 4TB / Power Consumption: 900W\r\n"
+					},
+					{
+						"title": "List of Donators",
+						"text": "• None!"
 					}
 				]
 			}
@@ -72,6 +91,10 @@
 			{
 				"text": "Join our Discord",
 				"url": "https://discord.unrealdj.nl"
+			},
+			{
+				"text": "Donate",
+				"url": "https://paypal.me/unrealdj"
 			}
 		],
 		"version": 2
