@@ -1,0 +1,79 @@
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 0,
+			"hideicon": true,
+			"hideiconafter": 60,
+			"iconurl": "https://i.imgur.com/jaiKgbG.png",
+			"disableicontext": false,
+			"iconposition": 0,
+			"icontextcolor": 0,
+			"openonstart": true,
+			"openonstartonlynewplayers": true,
+			"updateinterval": 12
+		},
+		"tabs": [
+			{
+				"layout": 1,
+				"buttontext": "Welcome",
+				"imageurl": " ",
+				"content": [
+					{
+						"title": "Welcome to the UnrealNET Cluster!",
+						"text": "Welcome to the cluster.\r\n\r\nThanks for joining our All-Map ARK: Survival Ascended PvE cluster.\r\nWe focus on a friendly, fair and lag-free experience for all players.\r\n\r\nThe main focus of this cluster: I'm a working father of two daughters, i need validation in my gameplay. This is what the cluster is build around. Not too grindy, not too speedy.\r\n\r\nFeatures:\r\n• all current and future maps included\r\n• Quality of Life mods\r\n• Balanced settings\r\n• Active admins & community\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nIssues / Suggestion?\r\n• Join the Discord: https://discord.unrealdj.nl (Or press the button at the lower left)  \r\n• Open an ticket using the \"create ticket\" under the server support section"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Rules",
+				"imageurl": " ",
+				"content": [
+					{
+						"title": "Rules",
+						"text": "Core Rules (Short Overview)\r\n\r\n• No pillar/foundation claiming — build a real base or don’t build there\r\n• Respect other bases and give space\r\n• No griefing, harassment, or luring wild dinos to bases\r\n• No building in caves, obelisks, boss areas, or important resource spawns\r\n• 1 main base per tribe per map\r\n• Outposts and \"pretty builds\" allowed. \r\n• PvE only — no stealing, no killing tames\r\n• No exploiting, duping, or mesh building\r\n• Inactive bases removed after 30 days\r\n\r\nFull rules are available on Discord"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Cluster Settings",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "Cluster Settings",
+						"text": "General Settings\r\n• XP: 1\r\n• Harvest: 2\r\n• Taming: 3\r\n• Breeding speed, maturation, and imprinting tuned for quality-of-life\r\n• Slightly boosted player and dino stats (balanced, not OP)\r\n\r\nServer Features\r\n• All maps connected through cluster transfer\r\n• Fast flyers enabled \r\n• Player/tribe limits optimized for performance\r\n• Cross-ARK item & dino transfers enabled where supported\r\n\r\nPerformance Goals\r\n• Clean world\r\n• Low clutter\r\n• Cryo unused tames\r\n• No spam building or abandoned structures"
+					}
+				]
+			},
+			{
+				"layout": 3,
+				"buttontext": "Honerable Mentions",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "Honerable Mentions",
+						"text": "AZNPrince\r\n\r\nAZ has helped keep this server clean and tidy, He has been with us since the beginning and has helped both financially and morally"
+					},
+					{
+						"title": "Parental Advisory Discord Server",
+						"text": "The parental Advisory Discord Server has been absolutely amazing in allowing us to host their main ARK Cluster. A lot of our players come from this server.\r\n\r\nFind them at:  "
+					},
+					{
+						"title": "List of (active) Streamers",
+						"text": "• Fox\r\n         Actively gets people engaged into the community"
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Join our Discord",
+				"url": "https://discord.unrealdj.nl"
+			}
+		],
+		"version": 2
+	}
+}
