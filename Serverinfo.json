@@ -38,13 +38,21 @@
 				]
 			},
 			{
-				"layout": 1,
+				"layout": 3,
 				"buttontext": "Cluster Settings",
 				"imageurl": "",
 				"content": [
 					{
 						"title": "Cluster Settings",
 						"text": "General Settings\r\n• XP: 1\r\n• Harvest: 2\r\n• Taming: 3\r\n• Breeding speed, maturation, and imprinting tuned for quality-of-life\r\n• Slightly boosted player and dino stats (balanced, not OP)\r\n\r\nServer Features\r\n• All maps connected through cluster transfer\r\n• Fast flyers enabled \r\n• Player/tribe limits optimized for performance\r\n• Cross-ARK item & dino transfers enabled where supported\r\n\r\nPerformance Goals\r\n• Clean world\r\n• Low clutter\r\n• Cryo unused tames\r\n• No spam building or abandoned structures"
+					},
+					{
+						"title": "Quick Start Guide",
+						"text": "You get a \"Newbie Boost\" till level 15. There are specific engrams that will unlock while you level up where you get access to a set of tools and basic building materials.  (Bed + food + Building Resources) - Use this to your advantage! -\r\n\r\nDont be afraid to ask for help!"
+					},
+					{
+						"title": "Mod List",
+						"text": "• AA - Automated Ark (ARK Automation)\r\n• Custom Dino Levels (More 150s!)\r\n• Extra Hairstyles\r\n• Awesome Teleporters (Easy teleportation / CrossARK)\r\n• ASR (ARKitecht Structures Remastered) - Better building options!\r\n• Variant Cycle Tool (Easy structure Skin editing)\r\n• Better Breeding (Always additive breeding) \r\n• Upgrade Station (Make your gear pro)\r\n• S-Dino's Variants / Fantastic Tames (Cool looking dinos!)\r\n• Shiny Dino's (Even cooler dinos!)\r\n• Solo Farm Mod (Singleplayer friendly!)\r\n• Automated Dino Wipes (every 12 hours)\r\n• Dino Depot (Clear up your dinos, no Cryo sickness!)\r\n• Flyer Seatbelts (Cause ejecting from 500 meter........)\r\n• Oceanic Platforms (Cause cmon wildcard...)\r\n• Mouse Saver (Hold your mouse to keep harvesting!)\r\n• LOOT Grabber (Press C to loot the ground/bodies)\r\n• Reusable Bola / Torch / Etc\r\n• Nanohs Spyglass (See wild dino stats) - USE THE GREEN ONE\r\n• Nanohs Ascended Saddles (Saddles with stats!)\r\n• Nanohs Ascended Equipment (Cool stuff)\r\n• Dino Finder (Use minimap at level 60 to find dinos)\r\n• Discord Cluster Chat\r\n• Dino Book (For when you dont have access to dododex)\r\n• Spawn Buffs & Boosts & Kits\r\n• CS Structures (For when AA doesnt cut it)\r\n• Hypers Extra's (QOL game extras) \r\n"
 					}
 				]
 			},
@@ -78,7 +86,7 @@
 					},
 					{
 						"title": "Current Hardware",
-						"text": "•  3x Dell EMC\r\n   -1x  16 x Intel(R) Xeon(R) w3-2435\r\n           (Island, Center, Astraeos, Ragnarok, Valguero)\r\n   -1x  44 x Intel(R) Xeon(R) CPU E5-2699 v4\r\n           (Scorched, Abberation, Extinction, ClubArk)\r\n   -1x  16 x Intel(R) Xeon(R) E-2388G CPU\r\n           (Cluster (cross-ark) management, backups and databases)\r\n\r\nTotal ram: 281GB / HDD Space: 4TB / Power Consumption: 900W\r\n"
+						"text": "•  3x Dell EMC\r\n   -1x  16 x Intel(R) Xeon(R) w3-2435\r\n           (Island, Center, Astraeos, Ragnarok, Valguero)\r\n   -1x  44 x Intel(R) Xeon(R) CPU E5-2699 v4\r\n           (Scorched, Abberation, Extinction, ClubArk)\r\n   -1x  16 x Intel(R) Xeon(R) E-2388G CPU\r\n           (Cluster (cross-ark) management, backups and databases)\r\n\r\nTotal ram: 200+GB / HDD Space: 4TB / Power Consumption: 900W\r\n"
 					},
 					{
 						"title": "List of Donators",
@@ -89,7 +97,7 @@
 		],
 		"links": [
 			{
-				"text": "Join our Discord",
+				"text": "Join our Discord                                                                                              ",
 				"url": "https://discord.unrealdj.nl"
 			},
 			{
