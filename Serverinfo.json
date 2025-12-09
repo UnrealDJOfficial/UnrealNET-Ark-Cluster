@@ -90,15 +90,19 @@
 					},
 					{
 						"title": "List of Donators",
-						"text": "• None!"
+						"text": "• Stinna\r\n• ..\r\n• .."
 					}
 				]
 			}
 		],
 		"links": [
 			{
-				"text": "Join our Discord                                                                                              ",
+				"text": "Join our Discord                                                          ",
 				"url": "https://discord.unrealdj.nl"
+			},
+			{
+				"text": "Vote for the cluster",
+				"url": "https://ark-servers.net/server/405995/vote/"
 			},
 			{
 				"text": "Donate",
