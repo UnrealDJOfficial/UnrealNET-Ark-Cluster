@@ -16,13 +16,17 @@
 		},
 		"tabs": [
 			{
-				"layout": 1,
+				"layout": 2,
 				"buttontext": "Welcome",
 				"imageurl": " ",
 				"content": [
 					{
 						"title": "Welcome to the UnrealNET Cluster!",
 						"text": "Welcome to the cluster.\r\n\r\nThanks for joining our All-Map ARK: Survival Ascended PvE cluster.\r\nWe focus on a friendly, fair and lag-free experience for all players.\r\n\r\nThe main focus of this cluster: I'm a working father of two daughters, i need validation in my gameplay. This is what the cluster is build around. Not too grindy, not too speedy.\r\n\r\nFeatures:\r\n• all current and future maps included\r\n• Quality of Life mods\r\n• Balanced settings\r\n• Active admins & community\r\n• Cluster store (15 points per 15 minutes of playtime)\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nIssues / Suggestion?\r\n• Join the Discord: https://discord.unrealdj.nl (Or press the button at the lower left)  \r\n• Open an ticket using the \"create ticket\" under the server support section"
+					},
+					{
+						"title": "Connected Players",
+						"text": "{playerlist}"
 					}
 				]
 			},
